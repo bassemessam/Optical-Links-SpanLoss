@@ -1,0 +1,5 @@
+show general name
+paging status disabled
+show interface topology *
+show card inventory *
+
