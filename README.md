@@ -4,4 +4,4 @@ inputTelnet.txt file contains the intial commands to start the discovery of the 
 The loopback IP's should be included in txt file (for example: network ip). Each IP in a line.
 to start the program.
 1- change directory to the working directory.
-2- run .py file followed by --filename <loopback ip list>
+2- run .py file followed by --filename {loopback ip list}
